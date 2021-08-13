@@ -1,17 +1,17 @@
 /*A simple comment in css*/  
 :root{ 
-    --background: #7DA2FF;
+    background: #7DA2FF;/*Declare the background variable with the colour #7DA2FF*/
 }
 
-body {
-    background: var(--background);
-    font-family: 'OpenSans', sans-serif;
-    text-align: center;
+body { /*We access the body of our html file*/
+    background: var(background); /*We declare that the background of the page is the background variable*/
+    font-family: 'OpenSans', sans-serif; /*We set the text font in OpenSans*/
+    text-align: center; /*We align the text to center*/
 }
 
-footer {
-    background-color: black;
-    color: white;
-    font-family: 'OpenSans', sans-serif;
-    text-align: center;
+footer { /*We access the footer of our html file*/
+    background-color: black; /*We declare that the background of the page is the black color*/
+    color: white; /*We declare that the colour of the letters is white.*/
+    font-family: 'OpenSans', sans-serif; /*We set the text font in OpenSans*/
+    text-align: center; /*We align the text to center*/
 }
