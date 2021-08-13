@@ -6,4 +6,12 @@
 body {
     background: var(--background);
     font-family: 'OpenSans', sans-serif;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-family: 'OpenSans', sans-serif;
+    text-align: center;
 }
