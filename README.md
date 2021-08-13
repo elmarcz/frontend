@@ -6,7 +6,7 @@
 <h3 align="center">A simple tutorial to learn basic html functions.</h3>
 
 ### 🔨 See the Code 
-- [Code](https://elmarcz.github.io/Basic-HTML/)
+- [Code](https://github.com/elmarcz/Basic-HTML/tree/main/src)
 
 ### 📱 Final result 
 - [Final Result](https://elmarcz.github.io/Basic-HTML/)
