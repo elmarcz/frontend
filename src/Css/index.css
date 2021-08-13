@@ -1,0 +1,9 @@
+/*A simple comment in css*/  
+:root{ 
+    --background: #7DA2FF;
+}
+
+body {
+    background: var(--background);
+    font-family: 'OpenSans', sans-serif;
+}
