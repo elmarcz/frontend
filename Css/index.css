@@ -1,17 +1,51 @@
-/*A simple comment in css*/  
+/* A simple comment in css */ 
 :root{ 
     background: #7DA2FF;/*Declare the background variable with the colour #7DA2FF*/
 }
 
-body { /*We access the body of our html file*/
+* { /*With this selector we select all the elements in our html*/ 
     background: var(background); /*We declare that the background of the page is the background variable*/
     font-family: 'OpenSans', sans-serif; /*We set the text font in OpenSans*/
     text-align: center; /*We align the text to center*/
 }
 
-footer { /*We access the footer of our html file*/
-    background-color: black; /*We declare that the background of the page is the black color*/
+/* Selectors in css: 
+
+    Example of a selector: 
+    selector {
+        propiety: value;
+    }
+
+    For classes: 
+    .class {
+        propiety: value;
+    }
+
+    For elements whith id: 
+    #id {
+        propiety: value;
+    }
+
+    For elements: 
+    [element="value"] {
+        propiety: value;
+    }
+
+*/ 
+
+.Title-list:hover { /*This is how we get the letter to change colour when we hover the cursor over it.*/
+    color: red;
+}
+
+.Title1 {
+    font-size: 3em; /* 1em = 16px */
+}
+
+body { /*We access the body of our html file.*/
+    color: black; /*We declare that the colour of the letters in the body is the colour black.*/
+}
+
+footer { /*We access the footer of our html file.*/
+    background-color: black; /*We declare that the background of the page is the black color.*/
     color: white; /*We declare that the colour of the letters is white.*/
-    font-family: 'OpenSans', sans-serif; /*We set the text font in OpenSans*/
-    text-align: center; /*We align the text to center*/
 }
