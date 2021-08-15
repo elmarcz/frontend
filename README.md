@@ -11,7 +11,7 @@
 - [Code](https://github.com/elmarcz/Basic-HTML/tree/main/src)
 
 ### 📱 Final result 
-- [Final Result](https://elmarcz.github.io/frontend/)
+- [Final Result](https://elmarcz.github.io/frontend)
 
 ### 📥 Download Final result 
 - [Download](https://www.mediafire.com/file/ubvko1ym41zdm69/Html+Course.rar/file)
