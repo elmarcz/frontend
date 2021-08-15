@@ -1,5 +1,7 @@
 <p align="center">
-<a target="blank"><img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png" width="160" alt="Dot Logo" /></a>
+<a target="blank"><img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png" width="160" alt=""></a>
+<a target="blank"><img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png" width="160" alt=""></a>
+<a target="blank"><img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg" width="160" alt=""></a>
 </a>
 <h1 align="center">Basic Frontend</h1>
 </p>
