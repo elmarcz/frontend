@@ -1,9 +1,9 @@
 <p align="center">
 <a target="blank"><img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png" width="160" alt="Dot Logo" /></a>
 </a>
-<h1 align="center">Basic Html</h1>
+<h1 align="center">Basic Frontend</h1>
 </p>
-<h3 align="center">A simple tutorial to learn basic html functions.</h3>
+<h3 align="center">A simple tutorial to learn basic frontend.</h3>
 
 ### 🔨 See the Code 
 - [Code](https://github.com/elmarcz/Basic-HTML/tree/main/src)
