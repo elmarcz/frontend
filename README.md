@@ -13,7 +13,7 @@
 ### 📥 Download Final result 
 - [Download](https://www.mediafire.com/file/ubvko1ym41zdm69/Html+Course.rar/file)
 
-### 💻 Recommended videos for learning html
+### 💻 Recommended videos for learning frontend
 - [Soy Dalto](https://www.youtube.com/watch?v=kN1XP-Bef7w&t=6345s)
 - [Fazt](https://www.youtube.com/watch?v=rbuYtrNUxg4)
 - [Falcon Master](https://www.youtube.com/watch?v=cqMfPS8jPys&list=RDCMUCJl1YajcPWTeJNsQhGyMIMg&index=2)
