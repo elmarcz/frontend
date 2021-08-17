@@ -9,7 +9,18 @@
     line-height: 1.5;
     color: #333;
   }
+
+  /* Custom Scrolls */
+  ::-webkit-scrollbar {
+    width: 0.1px;
+  }
   
+  ::-webkit-scrollbar-thumb {
+    background: #000;
+    border-radius: 5px;
+  }
+  /* Custom Scrolls */
+
   .header {
     height: 100vh;
     display: flex;
