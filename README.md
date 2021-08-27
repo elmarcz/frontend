@@ -5,7 +5,7 @@
 <h3 align="center">A simple tutorial to learn basic frontend.</h3>
 
 ### 🔨 See the Code 
-- [Code](https://github.com/elmarcz/Basic-HTML/tree/main/src)
+- [Code](https://github.com/elmarcz/frontend/tree/github-pages)
 
 ### 📱 Final result 
 - [Final Result](https://elmarcz.github.io/frontend)
