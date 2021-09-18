@@ -1,6 +1,7 @@
 <p align="center">
 </a>
 <h1 align="center">Basic Frontend</h1>
+<img src="https://i.ibb.co/3vp31bn/Png-Item-2221211.png" alt="Png-Item-2221211" border="0">
 </p>
 <h3 align="center">A simple tutorial to learn basic frontend.</h3>
 
