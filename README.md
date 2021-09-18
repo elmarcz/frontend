@@ -19,12 +19,7 @@
 - [Falcon Master](https://www.youtube.com/watch?v=cqMfPS8jPys&list=RDCMUCJl1YajcPWTeJNsQhGyMIMg&index=2)
 - [Victor Robles](https://www.youtube.com/watch?v=3yM5uXp-T_0)
 
-### 👤 Stay in touch
-- [Twitter](https://twitter.com/MarcMedrano15)
-- [Discord](https://discord.com/invite/zPSYDGVXxx)
-- [Instagram](https://www.instagram.com/marcmedranoz/)
-
-### 👤 Stay in touch
+### 🌐 Stay in touch
 - [Website](https://elmarcz.github.io/portfolio/)
 - [Twitter](https://twitter.com/MarcMedrano15)
 - [Discord](https://discord.com/invite/zPSYDGVXxx)
